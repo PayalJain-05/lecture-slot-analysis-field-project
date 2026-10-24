@@ -1,0 +1,490 @@
+Division,Day,Time_Slot,Subject,Classroom,Session_Type
+A,Monday,1:00-1:40 ,CHE,A101,Lecture
+A,Tuesday,1:00-1:40 ,IT/CS,A101,Lecture
+A,Wednesday,1:00-1:40 ,MAT,A101,Lecture
+A,Thursday,1:00-1:40 ,MAT,A101,Lecture
+A,Friday,1:00-1:40 ,BIO/CS,A101,Lecture
+A,Saturday,1:00-1:40 ,IT/CS,A101,Lecture
+A,Monday,1:40-2:20 ,ENG,A101,Lecture
+A,Tuesday,1:40-2:20 ,ENG,A101,Lecture
+A,Wednesday,1:40-2:20 ,BIO/CS,A101,Lecture
+A,Thursday,1:40-2:20 ,PHY,A101,Lecture
+A,Friday,1:40-2:20 ,ENG,A101,Lecture
+A,Saturday,1:40-2:20 ,MAT,A101,Lecture
+A,Monday,2:20-3:00,CHE,A101,Lecture
+A,Tuesday,2:20-3:00,BIO/CS,A101,Lecture
+A,Wednesday,2:20-3:00,PHY,A101,Lecture
+A,Thursday,2:20-3:00,CHE,A101,Lecture
+A,Friday,2:20-3:00,IT/CS,A101,Lecture
+A,Saturday,2:20-3:00,BIO/CS,A101,Lecture
+A,Monday,3:30-4:10,KIC,A101,Lecture
+A,Tuesday,3:30-4:10,EVS,A101,Lecture
+A,Wednesday,3:30-4:10,ENG,A101,Lecture
+A,Thursday,3:30-4:10,KICS,A101,Lecture
+A,Friday,3:30-4:10,KIP,A101,Lecture
+A,Saturday,3:30-4:10,KIP,A101,Lecture
+A,Monday,4:10-4:50,KIC,A101,Lecture
+A,Tuesday,4:10-4:50,PHY,A101,Lecture
+A,Wednesday,4:10-4:50,PE,A101,Lecture
+A,Thursday,4:10-4:50,KICS,A101,Lecture
+A,Friday,4:10-4:50,KIP,A101,Lecture
+A,Saturday,4:10-4:50,KIP,A101,Lecture
+A,Monday,4:50-5:30,KIC,A101,Lecture
+A,Tuesday,4:50-5:30,MAT,A101,Lecture
+A,Wednesday,4:50-5:30,MPR,A101,Lecture
+A,Thursday,4:50-5:30,KICS,A101,Lecture
+A,Friday,4:50-5:30,KIP,A101,Lecture
+A,Saturday,4:50-5:30,KIP,A101,Lecture
+A,Monday,5:30-6:10,IT/CS,A101,Lecture
+A,Tuesday,5:30-6:10,CHE,A101,Lecture
+A,Wednesday,5:30-6:10,MPR,A101,Lecture
+A,Thursday,5:30-6:10,MAT,A101,Lecture
+A,Friday,5:30-6:10,PHY,A101,Lecture
+A,Saturday,5:30-6:10,MAT,A101,Lecture
+A,Monday,6:10-6:50,FREE,N/A,Free Period
+A,Tuesday,6:10-6:50,FREE,N/A,Free Period
+A,Wednesday,6:10-6:50,IT/CS,A101,Lecture
+A,Thursday,6:10-6:50,PE,A101,Lecture
+A,Friday,6:10-6:50,ENG,A101,Lecture
+A,Saturday,6:10-6:50,EVS,A101,Lecture
+,,,,,
+B,Monday,1:00-1:40 ,IT/CS,A102,Lecture
+B,Tuesday,1:00-1:40 ,KICS,A102,Lecture
+B,Wednesday,1:00-1:40 ,IT/CS,A102,Lecture
+B,Thursday,1:00-1:40 ,CHE,A102,Lecture
+B,Friday,1:00-1:40 ,ENG,A102,Lecture
+B,Saturday,1:00-1:40 ,KIP,A102,Lecture
+B,Monday,1:40-2:20 ,PHY,A102,Lecture
+B,Tuesday,1:40-2:20 ,CHE,A102,Lecture
+B,Wednesday,1:40-2:20 ,ENG,A102,Lecture
+B,Thursday,1:40-2:20 ,KIP,A102,Lecture
+B,Friday,1:40-2:20 ,IT/CS,A102,Lecture
+B,Saturday,1:40-2:20 ,EVS,A102,Lecture
+B,Monday,2:20-3:00,ENG,A102,Lecture
+B,Tuesday,2:20-3:00,IT/CS,A102,Lecture
+B,Wednesday,2:20-3:00,FREE,N/A,Free Period
+B,Thursday,2:20-3:00,MAT,A102,Lecture
+B,Friday,2:20-3:00,KICS,A102,Lecture
+B,Saturday,2:20-3:00,KICS,A102,Lecture
+B,Monday,3:30-4:10,CHE,A102,Lecture
+B,Tuesday,3:30-4:10,ENG,A102,Lecture
+B,Wednesday,3:30-4:10,PE,A102,Lecture
+B,Thursday,3:30-4:10,MAT,A102,Lecture
+B,Friday,3:30-4:10,PHY,A102,Lecture
+B,Saturday,3:30-4:10,BIO/CS,A102,Lecture
+B,Monday,4:10-4:50,MAT,A102,Lecture
+B,Tuesday,4:10-4:50,KIP,A102,Lecture
+B,Wednesday,4:10-4:50,MPR,A102,Lecture
+B,Thursday,4:10-4:50,BIO/CS,A102,Lecture
+B,Friday,4:10-4:50,KIP,A102,Lecture
+B,Saturday,4:10-4:50,MAT,A102,Lecture
+B,Monday,4:50-5:30,PHY,A102,Lecture
+B,Tuesday,4:50-5:30,ENG,A102,Lecture
+B,Wednesday,4:50-5:30,KIP,A102,Lecture
+B,Thursday,4:50-5:30,KIC,A102,Lecture
+B,Friday,4:50-5:30,BIO/CS,A102,Lecture
+B,Saturday,4:50-5:30,FREE,N/A,Free Period
+B,Monday,5:30-6:10,BIO/CS,A102,Lecture
+B,Tuesday,5:30-6:10,CHE,A102,Lecture
+B,Wednesday,5:30-6:10,KIP,A102,Lecture
+B,Thursday,5:30-6:10,KIC,A102,Lecture
+B,Friday,5:30-6:10,EVS,A102,Lecture
+B,Saturday,5:30-6:10,PHY,A102,Lecture
+B,Monday,6:10-6:50,MAT,A102,Lecture
+B,Tuesday,6:10-6:50,MPR,A102,Lecture
+B,Wednesday,6:10-6:50,IT/CS,A102,Lecture
+B,Thursday,6:10-6:50,MAT,A102,Lecture
+B,Friday,6:10-6:50,PE,A102,Lecture
+B,Saturday,6:10-6:50,KIC,A102,Lecture
+,,,,,
+C,Monday,1:00-1:40 ,IT/CS,A103,Lecture
+C,Tuesday,1:00-1:40 ,CHE,A103,Lecture
+C,Wednesday,1:00-1:40 ,PE,A103,Lecture
+C,Thursday,1:00-1:40 ,PHY,A103,Lecture
+C,Friday,1:00-1:40 ,IT/CS,A103,Lecture
+C,Saturday,1:00-1:40 ,KIP,A103,Lecture
+C,Monday,1:40-2:20 ,MAT,A103,Lecture
+C,Tuesday,1:40-2:20 ,PHY,A103,Lecture
+C,Wednesday,1:40-2:20 ,EVS,A103,Lecture
+C,Thursday,1:40-2:20 ,KIP,A103,Lecture
+C,Friday,1:40-2:20 ,KICS,A103,Lecture
+C,Saturday,1:40-2:20 ,ENG,A103,Lecture
+C,Monday,2:20-3:00,PHY,A103,Lecture
+C,Tuesday,2:20-3:00,PE,A103,Lecture
+C,Wednesday,2:20-3:00,MAT,A103,Lecture
+C,Thursday,2:20-3:00,MPR,A103,Lecture
+C,Friday,2:20-3:00,CHE,A103,Lecture
+C,Saturday,2:20-3:00,CHE,A103,Lecture
+C,Monday,3:30-4:10,KICS,A103,Lecture
+C,Tuesday,3:30-4:10,BIO/CS,A103,Lecture
+C,Wednesday,3:30-4:10,ENG,A103,Lecture
+C,Thursday,3:30-4:10,KIP,A103,Lecture
+C,Friday,3:30-4:10,KIP,A103,Lecture
+C,Saturday,3:30-4:10,MPR,A103,Lecture
+C,Monday,4:10-4:50,ENG,A103,Lecture
+C,Tuesday,4:10-4:50,MAT,A103,Lecture
+C,Wednesday,4:10-4:50,KIC,A103,Lecture
+C,Thursday,4:10-4:50,FREE,N/A,Free Period
+C,Friday,4:10-4:50,PHY,A103,Lecture
+C,Saturday,4:10-4:50,KIP,A103,Lecture
+C,Monday,4:50-5:30,EVS,A103,Lecture
+C,Tuesday,4:50-5:30,MAT,A103,Lecture
+C,Wednesday,4:50-5:30,CHE,A103,Lecture
+C,Thursday,4:50-5:30,KICS,A103,Lecture
+C,Friday,4:50-5:30,MAT,A103,Lecture
+C,Saturday,4:50-5:30,IT/CS,A103,Lecture
+C,Monday,5:30-6:10,FREE,N/A,Free Period
+C,Tuesday,5:30-6:10,ENG,A103,Lecture
+C,Wednesday,5:30-6:10,BIO/CS,A103,Lecture
+C,Thursday,5:30-6:10,KIC,A103,Lecture
+C,Friday,5:30-6:10,KIC,A103,Lecture
+C,Saturday,5:30-6:10,KIP,A103,Lecture
+C,Monday,6:10-6:50,MAT,A103,Lecture
+C,Tuesday,6:10-6:50,ENG,A103,Lecture
+C,Wednesday,6:10-6:50,IT/CS,A103,Lecture
+C,Thursday,6:10-6:50,BIO/CS,A103,Lecture
+C,Friday,6:10-6:50,IT/CS,A103,Lecture
+C,Saturday,6:10-6:50,BIO/CS,A103,Lecture
+,,,,,
+D,Monday,1:00-1:40 ,KIC,A104,Lecture
+D,Tuesday,1:00-1:40 ,KICS,A104,Lecture
+D,Wednesday,1:00-1:40 ,EVS,A104,Lecture
+D,Thursday,1:00-1:40 ,KIP,A104,Lecture
+D,Friday,1:00-1:40 ,ENG,A104,Lecture
+D,Saturday,1:00-1:40 ,CHE,A104,Lecture
+D,Monday,1:40-2:20 ,BIO/CS,A104,Lecture
+D,Tuesday,1:40-2:20 ,KIP,A104,Lecture
+D,Wednesday,1:40-2:20 ,PHY,A104,Lecture
+D,Thursday,1:40-2:20 ,KIP,A104,Lecture
+D,Friday,1:40-2:20 ,KIP,A104,Lecture
+D,Saturday,1:40-2:20 ,KICS,A104,Lecture
+D,Monday,2:20-3:00,KIC,A104,Lecture
+D,Tuesday,2:20-3:00,CHE,A104,Lecture
+D,Wednesday,2:20-3:00,PE,A104,Lecture
+D,Thursday,2:20-3:00,ENG,A104,Lecture
+D,Friday,2:20-3:00,ENG,A104,Lecture
+D,Saturday,2:20-3:00,MAT,A104,Lecture
+D,Monday,3:30-4:10,BIO/CS,A104,Lecture
+D,Tuesday,3:30-4:10,PE,A104,Lecture
+D,Wednesday,3:30-4:10,KIC,A104,Lecture
+D,Thursday,3:30-4:10,MAT,A104,Lecture
+D,Friday,3:30-4:10,CHE,A104,Lecture
+D,Saturday,3:30-4:10,IT/CS,A104,Lecture
+D,Monday,4:10-4:50,PHY,A104,Lecture
+D,Tuesday,4:10-4:50,MAT,A104,Lecture
+D,Wednesday,4:10-4:50,CHE,A104,Lecture
+D,Thursday,4:10-4:50,IT/CS,A104,Lecture
+D,Friday,4:10-4:50,MAT,A104,Lecture
+D,Saturday,4:10-4:50,BIO/CS,A104,Lecture
+D,Monday,4:50-5:30,PHY,A104,Lecture
+D,Tuesday,4:50-5:30,KIP,A104,Lecture
+D,Wednesday,4:50-5:30,IT/CS,A104,Lecture
+D,Thursday,4:50-5:30,MPR,A104,Lecture
+D,Friday,4:50-5:30,PHY,A104,Lecture
+D,Saturday,4:50-5:30,KICS,A104,Lecture
+D,Monday,5:30-6:10,FREE,N/A,Free Period
+D,Tuesday,5:30-6:10,MAT,A104,Lecture
+D,Wednesday,5:30-6:10,BIO/CS,A104,Lecture
+D,Thursday,5:30-6:10,MPR,A104,Lecture
+D,Friday,5:30-6:10,IT/CS,A104,Lecture
+D,Saturday,5:30-6:10,EVS,A104,Lecture
+D,Monday,6:10-6:50,FREE,N/A,Free Period
+D,Tuesday,6:10-6:50,ENG,A104,Lecture
+D,Wednesday,6:10-6:50,KIP,A104,Lecture
+D,Thursday,6:10-6:50,ENG,A104,Lecture
+D,Friday,6:10-6:50,IT/CS,A104,Lecture
+D,Saturday,6:10-6:50,MAT,A104,Lecture
+,,,,,
+E,Monday,1:00-1:40 ,PHY,B201,Lecture
+E,Tuesday,1:00-1:40 ,EVS,B201,Lecture
+E,Wednesday,1:00-1:40 ,MAT,B201,Lecture
+E,Thursday,1:00-1:40 ,BIO/CS,B201,Lecture
+E,Friday,1:00-1:40 ,MAT,B201,Lecture
+E,Saturday,1:00-1:40 ,KIP,B201,Lecture
+E,Monday,1:40-2:20 ,EVS,B201,Lecture
+E,Tuesday,1:40-2:20 ,IT/CS,B201,Lecture
+E,Wednesday,1:40-2:20 ,ENG,B201,Lecture
+E,Thursday,1:40-2:20 ,ENG,B201,Lecture
+E,Friday,1:40-2:20 ,FREE,N/A,Free Period
+E,Saturday,1:40-2:20 ,PE,B201,Lecture
+E,Monday,2:20-3:00,KIC,B201,Lecture
+E,Tuesday,2:20-3:00,PE,B201,Lecture
+E,Wednesday,2:20-3:00,BIO/CS,B201,Lecture
+E,Thursday,2:20-3:00,KICS,B201,Lecture
+E,Friday,2:20-3:00,PHY,B201,Lecture
+E,Saturday,2:20-3:00,IT/CS,B201,Lecture
+E,Monday,3:30-4:10,KIC,B201,Lecture
+E,Tuesday,3:30-4:10,IT/CS,B201,Lecture
+E,Wednesday,3:30-4:10,MAT,B201,Lecture
+E,Thursday,3:30-4:10,MAT,B201,Lecture
+E,Friday,3:30-4:10,MAT,B201,Lecture
+E,Saturday,3:30-4:10,KIP,B201,Lecture
+E,Monday,4:10-4:50,KIP,B201,Lecture
+E,Tuesday,4:10-4:50,KIP,B201,Lecture
+E,Wednesday,4:10-4:50,ENG,B201,Lecture
+E,Thursday,4:10-4:50,FREE,N/A,Free Period
+E,Friday,4:10-4:50,KICS,B201,Lecture
+E,Saturday,4:10-4:50,ENG,B201,Lecture
+E,Monday,4:50-5:30,KICS,B201,Lecture
+E,Tuesday,4:50-5:30,MPR,B201,Lecture
+E,Wednesday,4:50-5:30,IT/CS,B201,Lecture
+E,Thursday,4:50-5:30,CHE,B201,Lecture
+E,Friday,4:50-5:30,PHY,B201,Lecture
+E,Saturday,4:50-5:30,IT/CS,B201,Lecture
+E,Monday,5:30-6:10,MAT,B201,Lecture
+E,Tuesday,5:30-6:10,CHE,B201,Lecture
+E,Wednesday,5:30-6:10,BIO/CS,B201,Lecture
+E,Thursday,5:30-6:10,ENG,B201,Lecture
+E,Friday,5:30-6:10,PHY,B201,Lecture
+E,Saturday,5:30-6:10,KIC,B201,Lecture
+E,Monday,6:10-6:50,MPR,B201,Lecture
+E,Tuesday,6:10-6:50,KIP,B201,Lecture
+E,Wednesday,6:10-6:50,BIO/CS,B201,Lecture
+E,Thursday,6:10-6:50,KIP,B201,Lecture
+E,Friday,6:10-6:50,CHE,B201,Lecture
+E,Saturday,6:10-6:50,CHE,B201,Lecture
+,,,,,
+F,Monday,1:00-1:40 ,CHE,B202,Lecture
+F,Tuesday,1:00-1:40 ,IT/CS,B202,Lecture
+F,Wednesday,1:00-1:40 ,PHY,B202,Lecture
+F,Thursday,1:00-1:40 ,FREE,N/A,Free Period
+F,Friday,1:00-1:40 ,ENG,B202,Lecture
+F,Saturday,1:00-1:40 ,KIP,B202,Lecture
+F,Monday,1:40-2:20 ,MAT,B202,Lecture
+F,Tuesday,1:40-2:20 ,EVS,B202,Lecture
+F,Wednesday,1:40-2:20 ,KICS,B202,Lecture
+F,Thursday,1:40-2:20 ,KICS,B202,Lecture
+F,Friday,1:40-2:20 ,MPR,B202,Lecture
+F,Saturday,1:40-2:20 ,ENG,B202,Lecture
+F,Monday,2:20-3:00,ENG,B202,Lecture
+F,Tuesday,2:20-3:00,MAT,B202,Lecture
+F,Wednesday,2:20-3:00,BIO/CS,B202,Lecture
+F,Thursday,2:20-3:00,MAT,B202,Lecture
+F,Friday,2:20-3:00,MAT,B202,Lecture
+F,Saturday,2:20-3:00,IT/CS,B202,Lecture
+F,Monday,3:30-4:10,FREE,N/A,Free Period
+F,Tuesday,3:30-4:10,KIP,B202,Lecture
+F,Wednesday,3:30-4:10,MPR,B202,Lecture
+F,Thursday,3:30-4:10,KIP,B202,Lecture
+F,Friday,3:30-4:10,KIP,B202,Lecture
+F,Saturday,3:30-4:10,ENG,B202,Lecture
+F,Monday,4:10-4:50,CHE,B202,Lecture
+F,Tuesday,4:10-4:50,PE,B202,Lecture
+F,Wednesday,4:10-4:50,BIO/CS,B202,Lecture
+F,Thursday,4:10-4:50,CHE,B202,Lecture
+F,Friday,4:10-4:50,PE,B202,Lecture
+F,Saturday,4:10-4:50,MAT,B202,Lecture
+F,Monday,4:50-5:30,KIC,B202,Lecture
+F,Tuesday,4:50-5:30,BIO/CS,B202,Lecture
+F,Wednesday,4:50-5:30,KIP,B202,Lecture
+F,Thursday,4:50-5:30,KICS,B202,Lecture
+F,Friday,4:50-5:30,PHY,B202,Lecture
+F,Saturday,4:50-5:30,MAT,B202,Lecture
+F,Monday,5:30-6:10,KIC,B202,Lecture
+F,Tuesday,5:30-6:10,KIP,B202,Lecture
+F,Wednesday,5:30-6:10,IT/CS,B202,Lecture
+F,Thursday,5:30-6:10,IT/CS,B202,Lecture
+F,Friday,5:30-6:10,BIO/CS,B202,Lecture
+F,Saturday,5:30-6:10,IT/CS,B202,Lecture
+F,Monday,6:10-6:50,PHY,B202,Lecture
+F,Tuesday,6:10-6:50,KIC,B202,Lecture
+F,Wednesday,6:10-6:50,PHY,B202,Lecture
+F,Thursday,6:10-6:50,ENG,B202,Lecture
+F,Friday,6:10-6:50,EVS,B202,Lecture
+F,Saturday,6:10-6:50,CHE,B202,Lecture
+,,,,,
+G,Monday,1:00-1:40 ,MAT,B203,Lecture
+G,Tuesday,1:00-1:40 ,KIP,B203,Lecture
+G,Wednesday,1:00-1:40 ,PHY,B203,Lecture
+G,Thursday,1:00-1:40 ,PHY,B203,Lecture
+G,Friday,1:00-1:40 ,PE,B203,Lecture
+G,Saturday,1:00-1:40 ,MPR,B203,Lecture
+G,Monday,1:40-2:20 ,FREE,N/A,Free Period
+G,Tuesday,1:40-2:20 ,KICS,B203,Lecture
+G,Wednesday,1:40-2:20 ,ENG,B203,Lecture
+G,Thursday,1:40-2:20 ,CHE,B203,Lecture
+G,Friday,1:40-2:20 ,ENG,B203,Lecture
+G,Saturday,1:40-2:20 ,PE,B203,Lecture
+G,Monday,2:20-3:00,MPR,B203,Lecture
+G,Tuesday,2:20-3:00,FREE,N/A,Free Period
+G,Wednesday,2:20-3:00,PHY,B203,Lecture
+G,Thursday,2:20-3:00,KIP,B203,Lecture
+G,Friday,2:20-3:00,BIO/CS,B203,Lecture
+G,Saturday,2:20-3:00,EVS,B203,Lecture
+G,Monday,3:30-4:10,PHY,B203,Lecture
+G,Tuesday,3:30-4:10,BIO/CS,B203,Lecture
+G,Wednesday,3:30-4:10,MAT,B203,Lecture
+G,Thursday,3:30-4:10,KICS,B203,Lecture
+G,Friday,3:30-4:10,CHE,B203,Lecture
+G,Saturday,3:30-4:10,IT/CS,B203,Lecture
+G,Monday,4:10-4:50,BIO/CS,B203,Lecture
+G,Tuesday,4:10-4:50,BIO/CS,B203,Lecture
+G,Wednesday,4:10-4:50,MAT,B203,Lecture
+G,Thursday,4:10-4:50,KIP,B203,Lecture
+G,Friday,4:10-4:50,CHE,B203,Lecture
+G,Saturday,4:10-4:50,IT/CS,B203,Lecture
+G,Monday,4:50-5:30,KIC,B203,Lecture
+G,Tuesday,4:50-5:30,ENG,B203,Lecture
+G,Wednesday,4:50-5:30,KIC,B203,Lecture
+G,Thursday,4:50-5:30,EVS,B203,Lecture
+G,Friday,4:50-5:30,KIC,B203,Lecture
+G,Saturday,4:50-5:30,KIP,B203,Lecture
+G,Monday,5:30-6:10,ENG,B203,Lecture
+G,Tuesday,5:30-6:10,ENG,B203,Lecture
+G,Wednesday,5:30-6:10,MAT,B203,Lecture
+G,Thursday,5:30-6:10,CHE,B203,Lecture
+G,Friday,5:30-6:10,KIP,B203,Lecture
+G,Saturday,5:30-6:10,IT/CS,B203,Lecture
+G,Monday,6:10-6:50,KICS,B203,Lecture
+G,Tuesday,6:10-6:50,MAT,B203,Lecture
+G,Wednesday,6:10-6:50,IT/CS,B203,Lecture
+G,Thursday,6:10-6:50,KIP,B203,Lecture
+G,Friday,6:10-6:50,IT/CS,B203,Lecture
+G,Saturday,6:10-6:50,MAT,B203,Lecture
+,,,,,
+H,Monday,1:00-1:40 ,MAT,B204,Lecture
+H,Tuesday,1:00-1:40 ,MAT,B204,Lecture
+H,Wednesday,1:00-1:40 ,ENG,B204,Lecture
+H,Thursday,1:00-1:40 ,KIP,B204,Lecture
+H,Friday,1:00-1:40 ,PHY,B204,Lecture
+H,Saturday,1:00-1:40 ,KIC,B204,Lecture
+H,Monday,1:40-2:20 ,FREE,N/A,Free Period
+H,Tuesday,1:40-2:20 ,KIP,B204,Lecture
+H,Wednesday,1:40-2:20 ,CHE,B204,Lecture
+H,Thursday,1:40-2:20 ,MAT,B204,Lecture
+H,Friday,1:40-2:20 ,EVS,B204,Lecture
+H,Saturday,1:40-2:20 ,IT/CS,B204,Lecture
+H,Monday,2:20-3:00,ENG,B204,Lecture
+H,Tuesday,2:20-3:00,BIO/CS,B204,Lecture
+H,Wednesday,2:20-3:00,KICS,B204,Lecture
+H,Thursday,2:20-3:00,KICS,B204,Lecture
+H,Friday,2:20-3:00,MAT,B204,Lecture
+H,Saturday,2:20-3:00,PHY,B204,Lecture
+H,Monday,3:30-4:10,ENG,B204,Lecture
+H,Tuesday,3:30-4:10,BIO/CS,B204,Lecture
+H,Wednesday,3:30-4:10,FREE,N/A,Free Period
+H,Thursday,3:30-4:10,MPR,B204,Lecture
+H,Friday,3:30-4:10,EVS,B204,Lecture
+H,Saturday,3:30-4:10,KICS,B204,Lecture
+H,Monday,4:10-4:50,BIO/CS,B204,Lecture
+H,Tuesday,4:10-4:50,MPR,B204,Lecture
+H,Wednesday,4:10-4:50,PHY,B204,Lecture
+H,Thursday,4:10-4:50,KIP,B204,Lecture
+H,Friday,4:10-4:50,KIP,B204,Lecture
+H,Saturday,4:10-4:50,KIC,B204,Lecture
+H,Monday,4:50-5:30,KIP,B204,Lecture
+H,Tuesday,4:50-5:30,ENG,B204,Lecture
+H,Wednesday,4:50-5:30,PE,B204,Lecture
+H,Thursday,4:50-5:30,CHE,B204,Lecture
+H,Friday,4:50-5:30,PE,B204,Lecture
+H,Saturday,4:50-5:30,BIO/CS,B204,Lecture
+H,Monday,5:30-6:10,IT/CS,B204,Lecture
+H,Tuesday,5:30-6:10,ENG,B204,Lecture
+H,Wednesday,5:30-6:10,KIP,B204,Lecture
+H,Thursday,5:30-6:10,KIC,B204,Lecture
+H,Friday,5:30-6:10,CHE,B204,Lecture
+H,Saturday,5:30-6:10,PHY,B204,Lecture
+H,Monday,6:10-6:50,CHE,B204,Lecture
+H,Tuesday,6:10-6:50,MAT,B204,Lecture
+H,Wednesday,6:10-6:50,IT/CS,B204,Lecture
+H,Thursday,6:10-6:50,MAT,B204,Lecture
+H,Friday,6:10-6:50,IT/CS,B204,Lecture
+H,Saturday,6:10-6:50,IT/CS,B204,Lecture
+,,,,,
+J,Monday,1:00-1:40 ,MAT,C301,Lecture
+J,Tuesday,1:00-1:40 ,KICS,C301,Lecture
+J,Wednesday,1:00-1:40 ,PHY,C301,Lecture
+J,Thursday,1:00-1:40 ,CHE,C301,Lecture
+J,Friday,1:00-1:40 ,ENG,C301,Lecture
+J,Saturday,1:00-1:40 ,ENG,C301,Lecture
+J,Monday,1:40-2:20 ,MAT,C301,Lecture
+J,Tuesday,1:40-2:20 ,IT/CS,C301,Lecture
+J,Wednesday,1:40-2:20 ,MAT,C301,Lecture
+J,Thursday,1:40-2:20 ,IT/CS,C301,Lecture
+J,Friday,1:40-2:20 ,PHY,C301,Lecture
+J,Saturday,1:40-2:20 ,FREE,N/A,Free Period
+J,Monday,2:20-3:00,KIP,C301,Lecture
+J,Tuesday,2:20-3:00,BIO/CS,C301,Lecture
+J,Wednesday,2:20-3:00,CHE,C301,Lecture
+J,Thursday,2:20-3:00,KIP,C301,Lecture
+J,Friday,2:20-3:00,EVS,C301,Lecture
+J,Saturday,2:20-3:00,CHE,C301,Lecture
+J,Monday,3:30-4:10,PE,C301,Lecture
+J,Tuesday,3:30-4:10,KIC,C301,Lecture
+J,Wednesday,3:30-4:10,KICS,C301,Lecture
+J,Thursday,3:30-4:10,EVS,C301,Lecture
+J,Friday,3:30-4:10,KIP,C301,Lecture
+J,Saturday,3:30-4:10,MPR,C301,Lecture
+J,Monday,4:10-4:50,KIC,C301,Lecture
+J,Tuesday,4:10-4:50,IT/CS,C301,Lecture
+J,Wednesday,4:10-4:50,KIP,C301,Lecture
+J,Thursday,4:10-4:50,BIO/CS,C301,Lecture
+J,Friday,4:10-4:50,KIC,C301,Lecture
+J,Saturday,4:10-4:50,ENG,C301,Lecture
+J,Monday,4:50-5:30,IT/CS,C301,Lecture
+J,Tuesday,4:50-5:30,PE,C301,Lecture
+J,Wednesday,4:50-5:30,KICS,C301,Lecture
+J,Thursday,4:50-5:30,IT/CS,C301,Lecture
+J,Friday,4:50-5:30,MAT,C301,Lecture
+J,Saturday,4:50-5:30,BIO/CS,C301,Lecture
+J,Monday,5:30-6:10,MPR,C301,Lecture
+J,Tuesday,5:30-6:10,FREE,N/A,Free Period
+J,Wednesday,5:30-6:10,CHE,C301,Lecture
+J,Thursday,5:30-6:10,KIP,C301,Lecture
+J,Friday,5:30-6:10,ENG,C301,Lecture
+J,Saturday,5:30-6:10,KIP,C301,Lecture
+J,Monday,6:10-6:50,BIO/CS,C301,Lecture
+J,Tuesday,6:10-6:50,MAT,C301,Lecture
+J,Wednesday,6:10-6:50,MAT,C301,Lecture
+J,Thursday,6:10-6:50,PHY,C301,Lecture
+J,Friday,6:10-6:50,PHY,C301,Lecture
+J,Saturday,6:10-6:50,ENG,C301,Lecture
+,,,,,
+K,Monday,1:00-1:40 ,MAT,C302,Lecture
+K,Tuesday,1:00-1:40 ,BIO/CS,C302,Lecture
+K,Wednesday,1:00-1:40 ,ENG,C302,Lecture
+K,Thursday,1:00-1:40 ,ENG,C302,Lecture
+K,Friday,1:00-1:40 ,ENG,C302,Lecture
+K,Saturday,1:00-1:40 ,MPR,C302,Lecture
+K,Monday,1:40-2:20 ,IT/CS,C302,Lecture
+K,Tuesday,1:40-2:20 ,KIP,C302,Lecture
+K,Wednesday,1:40-2:20 ,BIO/CS,C302,Lecture
+K,Thursday,1:40-2:20 ,MAT,C302,Lecture
+K,Friday,1:40-2:20 ,PHY,C302,Lecture
+K,Saturday,1:40-2:20 ,KIP,C302,Lecture
+K,Monday,2:20-3:00,EVS,C302,Lecture
+K,Tuesday,2:20-3:00,EVS,C302,Lecture
+K,Wednesday,2:20-3:00,KIP,C302,Lecture
+K,Thursday,2:20-3:00,KICS,C302,Lecture
+K,Friday,2:20-3:00,MAT,C302,Lecture
+K,Saturday,2:20-3:00,KICS,C302,Lecture
+K,Monday,3:30-4:10,KICS,C302,Lecture
+K,Tuesday,3:30-4:10,CHE,C302,Lecture
+K,Wednesday,3:30-4:10,IT/CS,C302,Lecture
+K,Thursday,3:30-4:10,PHY,C302,Lecture
+K,Friday,3:30-4:10,CHE,C302,Lecture
+K,Saturday,3:30-4:10,ENG,C302,Lecture
+K,Monday,4:10-4:50,KIC,C302,Lecture
+K,Tuesday,4:10-4:50,FREE,N/A,Free Period
+K,Wednesday,4:10-4:50,FREE,N/A,Free Period
+K,Thursday,4:10-4:50,PE,C302,Lecture
+K,Friday,4:10-4:50,ENG,C302,Lecture
+K,Saturday,4:10-4:50,KIC,C302,Lecture
+K,Monday,4:50-5:30,MAT,C302,Lecture
+K,Tuesday,4:50-5:30,PE,C302,Lecture
+K,Wednesday,4:50-5:30,KIP,C302,Lecture
+K,Thursday,4:50-5:30,MAT,C302,Lecture
+K,Friday,4:50-5:30,KIP,C302,Lecture
+K,Saturday,4:50-5:30,IT/CS,C302,Lecture
+K,Monday,5:30-6:10,PHY,C302,Lecture
+K,Tuesday,5:30-6:10,BIO/CS,C302,Lecture
+K,Wednesday,5:30-6:10,MPR,C302,Lecture
+K,Thursday,5:30-6:10,CHE,C302,Lecture
+K,Friday,5:30-6:10,IT/CS,C302,Lecture
+K,Saturday,5:30-6:10,IT/CS,C302,Lecture
+K,Monday,6:10-6:50,MAT,C302,Lecture
+K,Tuesday,6:10-6:50,CHE,C302,Lecture
+K,Wednesday,6:10-6:50,BIO/CS,C302,Lecture
+K,Thursday,6:10-6:50,KIC,C302,Lecture
+K,Friday,6:10-6:50,KIP,C302,Lecture
+K,Saturday,6:10-6:50,PHY,C302,Lecture

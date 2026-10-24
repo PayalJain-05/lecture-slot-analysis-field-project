@@ -1,0 +1,11 @@
+Classroom,Capacity,Room_Type,AC_Available,Projector_Available,Whiteboard_Available,Room_Size_Category,Current_Status,Minimum_Suitable_Class_Size,Maximum_Suitable_Class_Size,Recommended_Min_Utilization_%,Recommended_Max_Utilization_%
+A101,60,Classroom,Yes,Yes,Yes,Standard,Available,35,60,55,90
+A102,40,Classroom,No,Yes,Yes,Small,Available,35,40,55,90
+A103,70,Classroom,Yes,Yes,Yes,Large,Available,35,70,55,90
+A104,50,Classroom,Yes,Yes,Yes,Medium,Available,35,50,55,90
+B201,70,Classroom,Yes,Yes,Yes,Large,Available,35,70,55,90
+B202,40,Classroom,No,Yes,Yes,Small,Available,35,40,55,90
+B203,60,Classroom,Yes,Yes,Yes,Standard,Available,35,60,55,90
+B204,70,Classroom,Yes,Yes,Yes,Large,Available,35,70,55,90
+C301,50,Classroom,No,Yes,Yes,Medium,Available,35,50,55,90
+C302,60,Classroom,Yes,Yes,Yes,Standard,Available,35,60,55,90

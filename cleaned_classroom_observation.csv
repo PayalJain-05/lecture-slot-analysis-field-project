@@ -1,0 +1,121 @@
+Observation_ID,Date,Day,Time_Slot,Course,Year,Division,Subject,Classroom,Classroom_Capacity,Students_Present,Attendance_Percentage,Classroom_Occupied,Started_On_Time,Ended_On_Time,Classroom_Changed,AC_Temperature_Issue,Fan_Ventilation_Issue,Lighting_Issue,Seating_Issue,Noise_Issue,Other_Issue,Utilization_Status,AC_Temperature_Issue_Binary,Fan_Ventilation_Issue_Binary,Lighting_Issue_Binary,Seating_Issue_Binary,Noise_Issue_Binary,Total_Issues_Count
+OBS001,27-07-2026,Monday,1:00-1:40,Science,SY,K,CHE,A101,60,50,83.3,Yes,Yes,Yes,No,No,No,Yes,No,No,Door/noise issue,Optimal,0,0,1,0,0,1
+OBS002,27-07-2026,Monday,1:00-1:40,Science,SY,C,IT/CS,C301,50,32,64,Yes,Yes,Yes,Yes,No,No,No,No,Yes,,Optimal,0,0,0,0,1,1
+OBS003,27-07-2026,Monday,1:00-1:40,Science,SY,K,MAT,C302,60,34,56.7,Yes,Yes,Yes,No,No,No,Yes,No,No,,Optimal,0,0,1,0,0,1
+OBS004,27-07-2026,Monday,1:00-1:40,Science,SY,D,BIO/CS,C302,60,38,63.3,Yes,No,Yes,Yes,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS005,27-07-2026,Monday,1:00-1:40,Science,SY,K,ENG,A101,60,55,91.7,Yes,Yes,Yes,No,No,No,No,No,No,,Overcrowded,0,0,0,0,0,0
+OBS006,27-07-2026,Monday,1:00-1:40,Science,SY,C,PHY,B204,70,69,98.6,Yes,No,No,No,Yes,No,No,No,No,No other issue,Overcrowded,1,0,0,0,0,1
+OBS007,27-07-2026,Monday,1:00-1:40,Science,SY,J,KIC,A102,40,28,70,Yes,Yes,No,No,No,Yes,No,No,No,No other issue,Optimal,0,1,0,0,0,1
+OBS008,27-07-2026,Monday,1:00-1:40,Science,SY,K,EVS,B203,60,36,60,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS009,27-07-2026,Monday,1:00-1:40,Science,N/A,N/A,N/A,C301,50,0,0,No,N/A,N/A,No,No,No,No,No,No,No other issue,Vacant,0,0,0,0,0,0
+OBS010,27-07-2026,Monday,1:00-1:40,Science,SY,C,KIP,B202,40,34,85,Yes,Yes,No,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS011,27-07-2026,Monday,1:00-1:40,Science,SY,K,PE,B203,60,51,85,Yes,Yes,Yes,Yes,No,No,No,No,No,Projector issue,Optimal,0,0,0,0,0,0
+OBS012,27-07-2026,Monday,1:00-1:40,Science,SY,J,MPR,B202,40,39,97.5,Yes,Yes,Yes,No,No,No,No,No,No,,Overcrowded,0,0,0,0,0,0
+OBS013,28-07-2026,Tuesday,1:00-1:40,Science,SY,C,CHE,C301,50,49,98,Yes,Yes,Yes,No,No,No,No,No,Yes,Board/visibility issue,Overcrowded,0,0,0,0,1,1
+OBS014,28-07-2026,Tuesday,1:00-1:40,Science,SY,E,IT/CS,B204,70,58,82.9,Yes,Yes,No,No,No,No,No,No,No,Door/noise issue,Optimal,0,0,0,0,0,0
+OBS015,28-07-2026,Tuesday,1:00-1:40,Science,SY,J,MAT,C301,50,33,66,Yes,Yes,Yes,No,No,No,No,No,No,No other issue,Optimal,0,0,0,0,0,0
+OBS016,28-07-2026,Tuesday,1:40-2:20,Science,SY,B,BIO/CS,B201,70,67,95.7,Yes,Yes,Yes,No,No,No,No,No,No,Door/noise issue,Overcrowded,0,0,0,0,0,0
+OBS017,28-07-2026,Tuesday,1:40-2:20,Science,SY,H,ENG,A102,40,36,90,Yes,Yes,Yes,No,No,No,No,No,No,No other issue,Optimal,0,0,0,0,0,0
+OBS018,28-07-2026,Tuesday,1:40-2:20,Science,SY,J,PHY,C302,60,53,88.3,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS019,28-07-2026,Tuesday,1:40-2:20,Science,SY,A,KIC,A103,70,58,82.9,Yes,Yes,Yes,No,No,No,No,No,No,Power interruption,Optimal,0,0,0,0,0,0
+OBS020,28-07-2026,Tuesday,1:40-2:20,Science,SY,G,EVS,C301,50,49,98,Yes,No,No,No,No,No,No,No,No,Door/noise issue,Overcrowded,0,0,0,0,0,0
+OBS021,28-07-2026,Tuesday,1:40-2:20,Science,SY,F,KICS,C302,60,50,83.3,Yes,Yes,Yes,No,No,No,No,No,Yes,Door/noise issue,Optimal,0,0,0,0,1,1
+OBS022,28-07-2026,Tuesday,1:40-2:20,Science,SY,K,KIP,B201,70,66,94.3,Yes,Yes,Yes,No,No,No,No,Yes,No,Door/noise issue,Overcrowded,0,0,0,1,0,1
+OBS023,28-07-2026,Tuesday,1:40-2:20,Science,SY,F,PE,A102,40,25,62.5,Yes,No,Yes,No,No,No,No,Yes,No,,Optimal,0,0,0,1,0,1
+OBS024,28-07-2026,Tuesday,1:40-2:20,Science,SY,D,MPR,A104,50,42,84,Yes,Yes,Yes,No,Yes,Yes,No,No,No,,Optimal,1,1,0,0,0,2
+OBS025,29-07-2026,Wednesday,1:40-2:20,Science,SY,G,CHE,A103,70,59,84.3,Yes,Yes,Yes,No,Yes,No,No,No,No,,Optimal,1,0,0,0,0,1
+OBS026,29-07-2026,Wednesday,1:40-2:20,Science,SY,A,IT/CS,A102,40,30,75,Yes,No,No,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS027,29-07-2026,Wednesday,1:40-2:20,Science,SY,H,MAT,A104,50,28,56,Yes,Yes,Yes,No,Yes,No,No,Yes,No,,Optimal,1,0,0,1,0,2
+OBS028,29-07-2026,Wednesday,1:40-2:20,Science,SY,G,BIO/CS,B203,60,49,81.7,Yes,Yes,Yes,No,No,No,No,No,No,Door/noise issue,Optimal,0,0,0,0,0,0
+OBS029,29-07-2026,Wednesday,1:40-2:20,Science,SY,K,ENG,A102,40,38,95,Yes,Yes,Yes,Yes,No,No,No,No,No,No other issue,Overcrowded,0,0,0,0,0,0
+OBS030,29-07-2026,Wednesday,1:40-2:20,Science,SY,K,PHY,B201,70,38,54.3,Yes,Yes,Yes,No,No,No,No,No,No,Projector issue,Underutilized,0,0,0,0,0,0
+OBS031,29-07-2026,Wednesday,2:20-3:00,Science,SY,F,KIC,A104,50,29,58,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS032,29-07-2026,Wednesday,2:20-3:00,Science,SY,K,EVS,B202,40,17,42.5,Yes,Yes,Yes,No,No,No,No,No,No,No other issue,Underutilized,0,0,0,0,0,0
+OBS033,29-07-2026,Wednesday,2:20-3:00,Science,SY,K,KICS,C302,60,64,106.7,Yes,No,Yes,No,No,No,No,No,No,,Overcrowded,0,0,0,0,0,0
+OBS034,29-07-2026,Wednesday,2:20-3:00,Science,SY,K,KIP,A104,50,39,78,Yes,Yes,Yes,No,No,No,No,No,No,Power interruption,Optimal,0,0,0,0,0,0
+OBS035,29-07-2026,Wednesday,2:20-3:00,Science,SY,C,PE,B202,40,27,67.5,Yes,Yes,No,No,No,No,No,No,No,No other issue,Optimal,0,0,0,0,0,0
+OBS036,29-07-2026,Wednesday,2:20-3:00,Science,SY,E,MPR,B202,40,17,42.5,Yes,No,Yes,No,No,No,No,No,No,No other issue,Underutilized,0,0,0,0,0,0
+OBS037,30-07-2026,Thursday,2:20-3:00,Science,SY,J,CHE,C302,60,57,95,Yes,Yes,Yes,No,No,No,No,No,No,Projector issue,Overcrowded,0,0,0,0,0,0
+OBS038,30-07-2026,Thursday,2:20-3:00,Science,SY,K,IT/CS,C301,50,28,56,Yes,Yes,Yes,No,Yes,No,No,No,No,,Optimal,1,0,0,0,0,1
+OBS039,30-07-2026,Thursday,2:20-3:00,Science,SY,D,MAT,A102,40,30,75,Yes,Yes,Yes,No,No,No,No,No,Yes,,Optimal,0,0,0,0,1,1
+OBS040,30-07-2026,Thursday,2:20-3:00,Science,N/A,N/A,N/A,C302,60,0,0,No,N/A,N/A,No,No,No,No,No,No,No other issue,Vacant,0,0,0,0,0,0
+OBS041,30-07-2026,Thursday,2:20-3:00,Science,SY,K,ENG,A101,60,44,73.3,Yes,Yes,No,No,No,No,No,No,No,Projector issue,Optimal,0,0,0,0,0,0
+OBS042,30-07-2026,Thursday,2:20-3:00,Science,SY,H,PHY,B202,40,16,40,Yes,Yes,Yes,No,No,No,No,No,Yes,,Underutilized,0,0,0,0,1,1
+OBS043,30-07-2026,Thursday,2:20-3:00,Science,SY,J,KIC,A104,50,37,74,Yes,Yes,Yes,Yes,Yes,No,No,No,Yes,,Optimal,1,0,0,0,1,2
+OBS044,30-07-2026,Thursday,2:20-3:00,Science,SY,K,EVS,A104,50,37,74,Yes,Yes,Yes,No,No,No,No,Yes,No,Door/noise issue,Optimal,0,0,0,1,0,1
+OBS045,30-07-2026,Thursday,2:20-3:00,Science,SY,D,KICS,A103,70,55,78.6,Yes,No,No,No,No,No,No,No,No,Door/noise issue,Optimal,0,0,0,0,0,0
+OBS046,30-07-2026,Thursday,3:30-4:10,Science,SY,D,KIP,B201,70,45,64.3,Yes,Yes,No,No,No,No,No,No,No,Door/noise issue,Optimal,0,0,0,0,0,0
+OBS047,30-07-2026,Thursday,3:30-4:10,Science,SY,E,PE,B204,70,70,100,Yes,Yes,Yes,No,No,No,No,No,No,,Overcrowded,0,0,0,0,0,0
+OBS048,30-07-2026,Thursday,3:30-4:10,Science,SY,B,MPR,B204,70,56,80,Yes,Yes,No,No,No,No,No,No,No,Projector issue,Optimal,0,0,0,0,0,0
+OBS049,31-07-2026,Friday,3:30-4:10,Science,SY,A,CHE,B204,70,57,81.4,Yes,Yes,Yes,No,No,No,No,No,No,Projector issue,Optimal,0,0,0,0,0,0
+OBS050,31-07-2026,Friday,3:30-4:10,Science,SY,G,IT/CS,A101,60,44,73.3,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS051,31-07-2026,Friday,3:30-4:10,Science,SY,F,MAT,A104,50,33,66,Yes,Yes,Yes,No,No,Yes,No,No,No,,Optimal,0,1,0,0,0,1
+OBS052,31-07-2026,Friday,3:30-4:10,Science,SY,F,BIO/CS,B201,70,59,84.3,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS053,31-07-2026,Friday,3:30-4:10,Science,SY,B,ENG,B204,70,67,95.7,Yes,Yes,Yes,No,No,No,No,No,No,Projector issue,Overcrowded,0,0,0,0,0,0
+OBS054,31-07-2026,Friday,3:30-4:10,Science,SY,G,PHY,C302,60,55,91.7,Yes,Yes,Yes,No,No,No,No,No,No,,Overcrowded,0,0,0,0,0,0
+OBS055,31-07-2026,Friday,3:30-4:10,Science,SY,C,KIC,C301,50,49,98,Yes,Yes,Yes,No,No,No,No,No,No,,Overcrowded,0,0,0,0,0,0
+OBS056,31-07-2026,Friday,3:30-4:10,Science,SY,B,EVS,A102,40,28,70,Yes,No,Yes,No,No,No,Yes,No,No,Projector issue,Optimal,0,0,1,0,0,1
+OBS057,31-07-2026,Friday,3:30-4:10,Science,SY,K,KICS,A104,50,41,82,Yes,No,Yes,No,Yes,No,No,No,No,,Optimal,1,0,0,0,0,1
+OBS058,31-07-2026,Friday,3:30-4:10,Science,SY,A,KIP,B202,40,34,85,Yes,Yes,Yes,No,No,No,No,No,No,Door/noise issue,Optimal,0,0,0,0,0,0
+OBS059,31-07-2026,Friday,3:30-4:10,Science,SY,K,PE,C301,50,36,72,Yes,No,Yes,No,No,No,No,No,No,Projector issue,Optimal,0,0,0,0,0,0
+OBS060,31-07-2026,Friday,3:30-4:10,Science,SY,K,MPR,B202,40,34,85,Yes,Yes,Yes,No,No,No,No,Yes,No,,Optimal,0,0,0,1,0,1
+OBS061,01-08-2026,Saturday,4:10-4:50,Science,SY,B,CHE,B204,70,47,67.1,Yes,Yes,No,Yes,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS062,01-08-2026,Saturday,4:10-4:50,Science,SY,H,IT/CS,A103,70,66,94.3,Yes,No,No,No,No,No,No,No,No,,Overcrowded,0,0,0,0,0,0
+OBS063,01-08-2026,Saturday,4:10-4:50,Science,SY,B,MAT,B203,60,25,41.7,Yes,No,Yes,No,No,No,No,No,No,No other issue,Underutilized,0,0,0,0,0,0
+OBS064,01-08-2026,Saturday,4:10-4:50,Science,SY,C,BIO/CS,B202,40,25,62.5,Yes,Yes,Yes,No,Yes,No,No,No,Yes,No other issue,Optimal,1,0,0,0,1,2
+OBS065,01-08-2026,Saturday,4:10-4:50,Science,SY,J,ENG,B204,70,59,84.3,Yes,Yes,Yes,No,No,Yes,Yes,No,No,Projector issue,Optimal,0,1,1,0,0,2
+OBS066,01-08-2026,Saturday,4:10-4:50,Science,SY,A,PHY,B204,70,69,98.6,Yes,Yes,Yes,No,No,No,No,No,No,,Overcrowded,0,0,0,0,0,0
+OBS067,01-08-2026,Saturday,4:10-4:50,Science,SY,G,KIC,B201,70,45,64.3,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS068,01-08-2026,Saturday,4:10-4:50,Science,SY,J,EVS,C301,50,49,98,Yes,No,Yes,No,No,No,No,No,No,,Overcrowded,0,0,0,0,0,0
+OBS069,01-08-2026,Saturday,4:10-4:50,Science,SY,F,KICS,B204,70,70,100,Yes,Yes,Yes,No,No,No,Yes,No,Yes,No other issue,Overcrowded,0,0,1,0,1,2
+OBS070,01-08-2026,Saturday,4:10-4:50,Science,SY,K,KIP,A102,40,29,72.5,Yes,Yes,Yes,No,Yes,No,No,No,No,No other issue,Optimal,1,0,0,0,0,1
+OBS071,01-08-2026,Saturday,4:10-4:50,Science,N/A,N/A,N/A,A102,40,0,0,No,N/A,N/A,No,No,No,No,No,No,No other issue,Vacant,0,0,0,0,0,0
+OBS072,01-08-2026,Saturday,4:10-4:50,Science,SY,C,MPR,A102,40,17,42.5,Yes,Yes,Yes,No,No,Yes,No,No,No,,Underutilized,0,1,0,0,0,1
+OBS073,03-08-2026,Monday,4:10-4:50,Science,SY,B,CHE,A104,50,34,68,Yes,Yes,Yes,No,Yes,No,No,No,No,,Optimal,1,0,0,0,0,1
+OBS074,03-08-2026,Monday,4:10-4:50,Science,SY,F,IT/CS,C302,60,64,106.7,Yes,No,Yes,Yes,Yes,No,No,No,No,No other issue,Overcrowded,1,0,0,0,0,1
+OBS075,03-08-2026,Monday,4:10-4:50,Science,SY,H,MAT,B201,70,63,90,Yes,Yes,No,Yes,No,No,No,No,No,Board/visibility issue,Optimal,0,0,0,0,0,0
+OBS076,03-08-2026,Monday,4:50-5:30,Science,SY,K,BIO/CS,A101,60,35,58.3,Yes,Yes,Yes,No,No,No,No,No,Yes,,Optimal,0,0,0,0,1,1
+OBS077,03-08-2026,Monday,4:50-5:30,Science,SY,D,ENG,B203,60,38,63.3,Yes,Yes,No,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS078,03-08-2026,Monday,4:50-5:30,Science,SY,A,PHY,A104,50,43,86,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS079,03-08-2026,Monday,4:50-5:30,Science,SY,A,KIC,B202,40,31,77.5,Yes,Yes,Yes,No,No,No,No,Yes,No,Door/noise issue,Optimal,0,0,0,1,0,1
+OBS080,03-08-2026,Monday,4:50-5:30,Science,SY,E,EVS,A102,40,30,75,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS081,03-08-2026,Monday,4:50-5:30,Science,N/A,N/A,N/A,A104,50,0,0,No,N/A,N/A,No,No,No,No,No,No,No other issue,Vacant,0,0,0,0,0,0
+OBS082,03-08-2026,Monday,4:50-5:30,Science,SY,D,KIP,B203,60,44,73.3,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS083,03-08-2026,Monday,4:50-5:30,Science,SY,K,PE,A104,50,37,74,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS084,03-08-2026,Monday,4:50-5:30,Science,SY,B,MPR,B203,60,59,98.3,Yes,Yes,Yes,No,No,No,No,No,Yes,,Overcrowded,0,0,0,0,1,1
+OBS085,03-08-2026,Monday,4:50-5:30,Science,SY,B,CHE,C302,60,62,103.3,Yes,Yes,Yes,No,No,No,No,No,No,Door/noise issue,Overcrowded,0,0,0,0,0,0
+OBS086,03-08-2026,Monday,4:50-5:30,Science,SY,F,IT/CS,B202,40,29,72.5,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS087,03-08-2026,Monday,4:50-5:30,Science,SY,B,MAT,A103,70,54,77.1,Yes,No,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS088,03-08-2026,Monday,4:50-5:30,Science,SY,F,BIO/CS,C301,50,27,54,Yes,Yes,Yes,No,No,No,No,No,No,,Underutilized,0,0,0,0,0,0
+OBS089,03-08-2026,Monday,4:50-5:30,Science,N/A,N/A,N/A,B203,60,0,0,No,N/A,N/A,No,No,No,No,No,No,No other issue,Vacant,0,0,0,0,0,0
+OBS090,03-08-2026,Monday,4:50-5:30,Science,SY,E,PHY,B203,60,31,51.7,Yes,Yes,Yes,No,No,No,Yes,No,No,,Underutilized,0,0,1,0,0,1
+OBS091,03-08-2026,Monday,5:30-6:10,Science,SY,E,KIC,C302,60,56,93.3,Yes,Yes,Yes,No,No,No,No,No,No,Projector issue,Overcrowded,0,0,0,0,0,0
+OBS092,03-08-2026,Monday,5:30-6:10,Science,SY,J,EVS,B202,40,22,55,Yes,No,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS093,03-08-2026,Monday,5:30-6:10,Science,SY,D,KICS,B204,70,39,55.7,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS094,03-08-2026,Monday,5:30-6:10,Science,SY,H,KIP,B201,70,43,61.4,Yes,Yes,Yes,No,Yes,No,No,No,No,,Optimal,1,0,0,0,0,1
+OBS095,03-08-2026,Monday,5:30-6:10,Science,N/A,N/A,N/A,A104,50,0,0,No,N/A,N/A,No,No,No,No,No,No,No other issue,Vacant,0,0,0,0,0,0
+OBS096,03-08-2026,Monday,5:30-6:10,Science,SY,J,MPR,C302,60,56,93.3,Yes,Yes,Yes,No,No,No,Yes,Yes,No,,Overcrowded,0,0,1,1,0,2
+OBS097,04-08-2026,Tuesday,5:30-6:10,Science,SY,F,CHE,B201,70,46,65.7,Yes,Yes,Yes,No,No,No,No,No,No,No other issue,Optimal,0,0,0,0,0,0
+OBS098,04-08-2026,Tuesday,5:30-6:10,Science,SY,B,IT/CS,C301,50,46,92,Yes,No,No,No,No,No,No,No,No,,Overcrowded,0,0,0,0,0,0
+OBS099,04-08-2026,Tuesday,5:30-6:10,Science,SY,K,MAT,A104,50,38,76,Yes,Yes,Yes,No,No,No,Yes,No,No,,Optimal,0,0,1,0,0,1
+OBS100,04-08-2026,Tuesday,5:30-6:10,Science,SY,C,BIO/CS,A102,40,24,60,Yes,Yes,Yes,No,No,No,No,Yes,No,Projector issue,Optimal,0,0,0,1,0,1
+OBS101,04-08-2026,Tuesday,5:30-6:10,Science,SY,H,ENG,B202,40,25,62.5,Yes,No,Yes,No,No,No,No,Yes,No,Projector issue,Optimal,0,0,0,1,0,1
+OBS102,04-08-2026,Tuesday,5:30-6:10,Science,SY,B,PHY,B204,70,69,98.6,Yes,Yes,No,No,No,No,No,Yes,No,No other issue,Overcrowded,0,0,0,1,0,1
+OBS103,04-08-2026,Tuesday,5:30-6:10,Science,SY,A,KIC,B201,70,45,64.3,Yes,Yes,No,No,No,Yes,No,No,No,,Optimal,0,1,0,0,0,1
+OBS104,04-08-2026,Tuesday,5:30-6:10,Science,SY,D,EVS,A103,70,70,100,Yes,Yes,Yes,No,No,No,No,Yes,Yes,No other issue,Overcrowded,0,0,0,1,1,2
+OBS105,04-08-2026,Tuesday,5:30-6:10,Science,SY,A,KICS,B201,70,55,78.6,Yes,Yes,Yes,No,No,No,No,No,Yes,No other issue,Optimal,0,0,0,0,1,1
+OBS106,04-08-2026,Tuesday,6:10-6:50,Science,SY,F,KIP,B204,70,58,82.9,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No other issue,Optimal,0,0,0,1,0,1
+OBS107,04-08-2026,Tuesday,6:10-6:50,Science,SY,C,PE,A102,40,22,55,Yes,Yes,Yes,Yes,No,No,No,No,No,No other issue,Optimal,0,0,0,0,0,0
+OBS108,04-08-2026,Tuesday,6:10-6:50,Science,SY,G,MPR,B201,70,29,41.4,Yes,No,Yes,Yes,No,No,No,Yes,No,,Underutilized,0,0,0,1,0,1
+OBS109,05-08-2026,Wednesday,6:10-6:50,Science,SY,K,CHE,C301,50,44,88,Yes,Yes,No,No,No,No,No,Yes,No,No other issue,Optimal,0,0,0,1,0,1
+OBS110,05-08-2026,Wednesday,6:10-6:50,Science,SY,B,IT/CS,B203,60,33,55,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS111,05-08-2026,Wednesday,6:10-6:50,Science,SY,C,MAT,A104,50,27,54,Yes,Yes,No,No,No,No,No,No,No,,Underutilized,0,0,0,0,0,0
+OBS112,05-08-2026,Wednesday,6:10-6:50,Science,SY,J,BIO/CS,B204,70,56,80,Yes,No,No,No,No,No,No,No,No,No other issue,Optimal,0,0,0,0,0,0
+OBS113,05-08-2026,Wednesday,6:10-6:50,Science,SY,J,ENG,A103,70,58,82.9,Yes,No,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS114,05-08-2026,Wednesday,6:10-6:50,Science,SY,A,PHY,A101,60,36,60,Yes,Yes,Yes,No,No,No,No,No,No,Board/visibility issue,Optimal,0,0,0,0,0,0
+OBS115,05-08-2026,Wednesday,6:10-6:50,Science,SY,C,KIC,B202,40,35,87.5,Yes,Yes,Yes,No,No,No,No,No,No,,Optimal,0,0,0,0,0,0
+OBS116,05-08-2026,Wednesday,6:10-6:50,Science,SY,K,EVS,C301,50,32,64,Yes,Yes,Yes,No,No,No,No,No,No,Projector issue,Optimal,0,0,0,0,0,0
+OBS117,05-08-2026,Wednesday,6:10-6:50,Science,SY,F,KICS,A103,70,38,54.3,Yes,Yes,Yes,No,No,No,Yes,No,No,,Underutilized,0,0,1,0,0,1
+OBS118,05-08-2026,Wednesday,6:10-6:50,Science,SY,E,KIP,B202,40,28,70,Yes,Yes,Yes,No,No,No,No,No,No,Power interruption,Optimal,0,0,0,0,0,0
+OBS119,05-08-2026,Wednesday,6:10-6:50,Science,N/A,N/A,N/A,C301,50,0,0,No,N/A,N/A,No,No,No,No,No,No,No other issue,Vacant,0,0,0,0,0,0
+OBS120,05-08-2026,Wednesday,6:10-6:50,Science,SY,B,MPR,A101,60,43,71.7,Yes,Yes,No,No,No,No,No,No,No,Door/noise issue,Optimal,0,0,0,0,0,0
